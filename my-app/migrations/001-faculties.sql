@@ -25,26 +25,26 @@ values
   (
     '621cce904343d3504b31255b',
     'Fakultet tehničkih nauka',
-    '08 :00',
-    '14 :00'
+    '08:00',
+    '14:00'
   ),
   (
     '621cce904fe28ca82550bc67',
     'Prirodno - matematički fakultet',
-    '08 :00',
-    '18 :00'
+    '08:00',
+    '18:00'
   ),
   (
     '621cce90b11c90d836e0cea9',
     'Tehnološki fakultet',
-    '08 :00',
-    '18 :00'
+    '08:00',
+    '18:00'
   ),
   (
     '621cce90d28fe17b49ad939a',
     'Pravni fakultet',
-    '09 :00',
-    '16 :00'
+    '09:00',
+    '16:00'
   );
 INSERT INTO
   Rooms (id, name, fakultyId)
